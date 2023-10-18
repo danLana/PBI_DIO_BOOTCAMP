@@ -37,6 +37,10 @@ Para realizar este passo, foi necessário criar uma nova conexão via Power BI, 
 
 #### Diretrizes para transformação dos dados
 
+Projeto Power BI utilizado para analize. 
+
+relatorio_DESAFIO_azure_MySQL_analisys.pbix
+
 1. Verifique os cabeçalhos e tipos de dados
 Muitas colunas vieram agrupadas em valores e Tabelas. Nome das colunas não muito sugestiveis.
 2. Modifique os valores monetários para o tipo double preciso
