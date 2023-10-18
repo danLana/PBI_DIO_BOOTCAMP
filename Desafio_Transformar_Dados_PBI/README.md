@@ -1,6 +1,5 @@
 # Desafio Transformando Dados com Power BI 📊
 
-<<<<<<< HEAD
 #### Configuração Azure MySQL
 Primeira ocorrência foi iniciar a configuração do ambiente de MySQL na [Azure Microsoft](https://azure.microsoft.com/pt-br/free/search/?ef_id=_k_Cj0KCQjw4bipBhCyARIsAFsieCx6v8smNVMnqGW87eScxcK-g6l2zrTOdBStZnXg1a4vCEkf802gde8aAsS-EALw_wcB_k_&OCID=AIDcmmzmnb0182_SEM__k_Cj0KCQjw4bipBhCyARIsAFsieCx6v8smNVMnqGW87eScxcK-g6l2zrTOdBStZnXg1a4vCEkf802gde8aAsS-EALw_wcB_k_&gclid=Cj0KCQjw4bipBhCyARIsAFsieCx6v8smNVMnqGW87eScxcK-g6l2zrTOdBStZnXg1a4vCEkf802gde8aAsS-EALw_wcB).
 
