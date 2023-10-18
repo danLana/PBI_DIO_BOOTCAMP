@@ -33,3 +33,8 @@ Para realizar esse passo, foi necessário pegar o passo-a-passo de conectar o Wo
 
 #### Conectar Azure MySQL no Power BI
 Para realizar este passo, foi necessário criar uma nova conexão via Power BI, com o conector MySQL. Assim com as credências do Azure MySQL, o Power BI teve acesso as bases do Azure.
+
+
+#### Diretrizes para transformação dos dados
+
+1- Verifique os cabeçalhos e tipos de dados
