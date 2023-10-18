@@ -17,4 +17,4 @@
 #### Conectar Workbench no Azure MySQL
     Para realizar esse passo, foi necessário pegar o passo-a-passo de conectar o Workbench no Azure MySQL. Seguindo as instruções, foi possível acessar a DB azure_company2 que foi criada via Azure MySQL.
 
-#### Conectar Workbench no Azure MySQL
+#### Conectar Azure MySQL no Power BI
